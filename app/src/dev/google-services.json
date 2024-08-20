@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026145261315",
+    "project_id": "desevaldistribaplicativo",
+    "storage_bucket": "desevaldistribaplicativo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026145261315:android:67f9266697d30ab35ebb36",
+        "android_client_info": {
+          "package_name": "com.example.desevaldistribaplicativo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBt2w903iG0dZiNWeEC7u4MjYn5L9TCiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026145261315:android:547d4982b1a083325ebb36",
+        "android_client_info": {
+          "package_name": "com.example.desevaldistribaplicativo.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBt2w903iG0dZiNWeEC7u4MjYn5L9TCiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

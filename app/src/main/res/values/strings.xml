@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo Prod</string> <!-- Nombre para producción -->
+
+    <string name="crash_test" translatable="false">Crash Test</string>
+</resources>
